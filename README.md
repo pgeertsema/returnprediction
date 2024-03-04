@@ -1,4 +1,4 @@
-# returnprediction
+# Return Prediction with Machine Learning (example code)
 Jupyter notebooks containing example code for predicting stock returns using accounting data
 
 Click the links below to load the jupyter notebooks directly in Google colab:
